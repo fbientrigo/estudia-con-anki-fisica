@@ -19,34 +19,34 @@ Los veo como cosas complementarias pero conveniente separarlas si nos vemos debi
 Se concentra en ecuaciones de la fisica que debemos de recordar o saber llegar a ellas de manera rapida
 
 Aqui encontraras:
-  La transformacion de Lorentz
-  Ecuacion de Relatividad Especial
-  Ecuaciones de Maxwell
-  ...
+  * La transformacion de Lorentz
+  * Ecuacion de Relatividad Especial
+  * Ecuaciones de Maxwell
+  * ...
   
 ### ejericios
 Problemas de fisica, se nos da un caso y que aplicar para resolverlo.
 
 Aqui encontraras:
-  Una masa con resortes
-  ...
+  * Una masa con resortes
+  * ...
 
 ### calculo
 Esto tambien se refiere a ejercicios y derivacion de cosas, pero unicamente
 hablamos de calculo.
 
 Aqui encontraras:
-  Ecuaciones diferenciales
-  Teoremas que recordar o demostrar
-  ...
+  * Ecuaciones diferenciales
+  * Teoremas que recordar o demostrar
+  * ...
 
 ### integrales
 Gran parte de la fisica es calculo y gran parte del calculo son integrales
 
 Aqui encontraras:
-  Formulas que uno suele memorizar
-  Ejercicios para ponerte a prueba
-  ...
+  * Formulas que uno suele memorizar
+  * Ejercicios para ponerte a prueba
+  * ...
 
 
 ## Tags presentes en todo el proyecto
