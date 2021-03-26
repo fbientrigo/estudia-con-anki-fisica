@@ -66,4 +66,11 @@ Aqui encontraras:
 * relativity
 * transformation
 
+## Deseo Contribuir
+Genial! Los documentos a modifcar son los csv, significa comma separated value, osea que todo lo que dejes una coma sera una columna, actualmente por convencion las 3 columnas son: Pregunta, Respuesta, Tags
 
+Todo lo que es `LaTex` dentro de Anki se hace con `MathJax`, debes de usar `\( tu ecuacion \)` cada vez que quieras escribir una ecuacion. A mi me ayuda ver en tiempo real como va quedando, asi que utilizo esto:
+
+http://www.texrendr.com/
+
+Renderiza en tiempo real codigo de LaTex, por tanto es escencial para mejorar el flujo de trabajo.
