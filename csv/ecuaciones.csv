@@ -1,0 +1,7 @@
+Transformacion de Lorentz, \(x\) se refiere a la parte paralela a la velocidad <br> \( y\) se refiere a la perpendiular <br> \( c t' = \gamma(c t - \vec{x} \cdot \vec{\beta} ) \) <br> \(\vec{x}' = \gamma(\vec{x}  - \beta c t ) \) <br>  \( \vec{y}' = \vec{y} \), relativity, transformation
+Ecuaciones de Cauchy-Riemman, \( \partial_y u = \partial_x v \) <br> \(\partial_y u = -\partial_y v  \), calculus, complex
+Valor de Expectacion Mecanica Cuantica, En notacion de Dirac y brakets normalizados: <br> \( < \hat{A} > = < \psi | \hat{A} |\psi>\), quantum, operator
+Evolucion Temporal del Valor de Expectacion <br> Mecanica Cuantica,  \( \partial_t \braket{\hat{A}} = \frac{1}{\hbar} \braket{[\hat{A};\hat{H}]} + \braket{\partial_t \hat{A}} \), quantum, operator
+Ecuacion Schrodinger con operador Hamiltoniano <br> \( \hat{H} \ket{\psi} = ..\), La ecuacion es: \( \hat{H} \ket{\psi} = i \hbar \partial_t \ket{\psi}  \), quantum, evolution 
+Evolucion Temporal de \( \ket{\psi} \) bajo \(\hat{H}\), Sea \(\hat{H}\ket{\phi_n} = E_n\ket{\phi_n}\) <br>\( \ket{\phi} = \sum C_n e^{\frac{1}{i \hbar} E_n t} \),quantum, evolution
+    
