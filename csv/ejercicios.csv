@@ -1,1 +1,4 @@
 Sea una caja con resorte <br> \(F_o \cos{wt} = m \ddot{x} + \alpha \dot{x} + k x  \) <br> Resuelvalo con numeros complejos, Ley de Hooke Compleja <br> \( K X_o = F_o \) <br> \(  K = -m \omega^2 + i \omega \alpha + k \) <br> \(X\) es la version compleja de \(x(t) = \mathbf{R}(X_o e^{i\omega t}))\), complex waves
+Dibuja un Ciclotron y el radio de giro de una particula de veloidad;carga;masa \( \vec{v}; q; m  \)  que gira en un campo Magnetico dentro de este con intensidad \( |\vec{B}|  \), Mediante un calculo de fisica clasica; aceleracion angular y Fuerza electrica: <br> \( r = \frac{m v}{B q}  \) , electricity magnetic-field
+De tener un Ciclotron a que frecuencia debemos de cambiar la polaridad?, \(\frac{v}{r} = \frac{q B}{m} \; .= \omega   \) <br> \(f = \frac{q B}{2 \pi m} \), electricity magnetic
+ \(   \)
