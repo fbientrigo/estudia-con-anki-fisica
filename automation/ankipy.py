@@ -8,7 +8,7 @@
 # y dejar espacios en blancos para modificarlas a gusto
 class Linea:
     #inicializa
-    def __init__(self,pregunta, solucion = '' , tags = ''):
+    def __init__(self, pregunta, solucion = '' , tags = ''):
         self.pregunta = pregunta
         self.solucion = solucion
         self.tags = tags
@@ -53,6 +53,24 @@ def escribir(destino, texto, opt = "w"):
     'a' es para agregar al final sin borrar lo anterior
     """
     f = open(destino,opt)
+    if opt == "a": #agregamos una linea de corte
+        print("se agrega corte")
+        f.write("\n")
     f.write(texto)
     f.close()
     print("Escritura realizada con exito")
+
+def eq(texto):
+    """
+    Se encarga de cerrar la ecuacion de latex en los brackets
+    que necesita anki para math mode
+    """
+    return "\(" + texto + "\)"
+
+def d(fx, x):
+    """
+    Nos devuelve la derivada total de f(x), simbolicamente
+    """
+    _ = "\\"
+    __ =  'frac{d}{d' + x + "}"
+    return _ + __ + fx
