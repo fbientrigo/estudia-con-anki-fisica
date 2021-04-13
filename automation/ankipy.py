@@ -74,3 +74,12 @@ def d(fx, x):
     _ = "\\"
     __ =  'frac{d}{d' + x + "}"
     return _ + __ + fx
+
+def frac(num,dem):
+    """
+    La clasica fraccion de Latex
+    """
+    return "\\frac{"+str(num)+"}{"+ str(dem) +"}"
+
+def vec(obj):
+    return "\\vec{" + str(obj) + "}"

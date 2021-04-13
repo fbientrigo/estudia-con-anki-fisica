@@ -1,0 +1,3 @@
+ Expresar la siguiente como resultado de una gradiente <br>\(\frac{\vec{r}-\vec{r'}}{|\vec{r}-\vec{r'}|^3}\) , \(-\nabla{|\frac{1}{\vec{r}-\vec{r'}}|}\) , 
+ El siguiente calculo en coordenadas cartesianas y notacion indicial <br>\(|\vec{r}-\vec{r'}|\) , \(\frac{1}{2|\vec{r}-\vec{r'}|}2(x_i - x'_i)\) , 
+Valor de la siguiente divergencia <br> tip: representacion integral del campo Electrico <br>\(\nabla{\cdot}\frac{\vec{r}}{r^3}\) , usando \(4 \pi \delta(\vec{r})\)acabamos calculando la div E como \(\frac{\rho }{\epsilon_0}\) , 
