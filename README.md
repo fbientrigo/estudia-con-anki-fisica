@@ -6,9 +6,18 @@ que son populares en el campo, pequeños ejercicios y problemas
 La repeticion espaciada demuestra ser una de las mejores maneras
 de memorizar cosas, vease `La Curva del Olvido`
 
-Si deseas modificar los CSV y luego importar a Anki, puedes seleccionar como se comportan las columnas,
-es importante que selecciones la opcion que permite a las tarjetas usar HTML y Markdown, ya que varias
-requieren de ello para estar en orden
+
+
+## Carpetas
+
+### decks
+Contiene mazos exportados en formato de anki, listos para utilizar y modificar dentro de anki
+
+### csv
+Outputs de CSV funcionales, listos para utilizar y sin errores.
+
+### automation
+Contiene jupyternotebooks que nos permite facilitar un poco la sintaxis de latex si te cuesta
 
 ## Por que existen distintos mazos y no solo 1?
 La fisica y matematica se divide no solo en ecuaciones que debes de recordar, pero tambien de situaciones
