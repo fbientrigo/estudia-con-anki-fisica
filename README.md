@@ -24,6 +24,13 @@ La fisica y matematica se divide no solo en ecuaciones que debes de recordar, pe
 que al ejercitarlas acabas con un conocimiento mayor. 
 Los veo como cosas complementarias pero conveniente separarlas si nos vemos debiles en alguna.
 
+### decks/Electrodinamica
+Desde la materia de electroestatica, formulas de capacitancia, demostrar propiedades vectoriales
+y distintos ejercicios que deben de sernos de 2da naturaleza para el estudio
+
+### decks/LaTex
+Desde como construir una tabla a los simbolos y funciones
+
 ### ecuaciones
 Se concentra en ecuaciones de la fisica que debemos de recordar o saber llegar a ellas de manera rapida
 
