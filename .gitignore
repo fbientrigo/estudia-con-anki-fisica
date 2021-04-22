@@ -1,3 +1,4 @@
 
 *.pyc
 automation/__pycache__/ankipy.cpython-39.pyc
+*.pyc
