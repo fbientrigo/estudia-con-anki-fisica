@@ -19,49 +19,31 @@ Outputs de CSV funcionales, listos para utilizar y sin errores.
 ### automation
 Contiene jupyternotebooks que nos permite facilitar un poco la sintaxis de latex si te cuesta
 
-## Por que existen distintos mazos y no solo 1?
+## Por que existen distintos mazos y no solo 1? (WIP)
 La fisica y matematica se divide no solo en ecuaciones que debes de recordar, pero tambien de situaciones
 que al ejercitarlas acabas con un conocimiento mayor. 
 Los veo como cosas complementarias pero conveniente separarlas si nos vemos debiles en alguna.
+
+### decks/Articulos y Escribirlos
+Posee sub-mazos de LaTex y normas APA, para estilo y referencias.
 
 ### decks/Electrodinamica
 Desde la materia de electroestatica, formulas de capacitancia, demostrar propiedades vectoriales
 y distintos ejercicios que deben de sernos de 2da naturaleza para el estudio
 
-### decks/LaTex
-Desde como construir una tabla a los simbolos y funciones
+### decks/Escencial para Fisica
+Se concentra en ecuaciones de la fisica que debemos de recordar o saber llegar a ellas de manera rapida,
+son tambien materia introductoria para Fisica, muchas veces con expansiones y propiedades utiles.
 
-### ecuaciones
-Se concentra en ecuaciones de la fisica que debemos de recordar o saber llegar a ellas de manera rapida
-
-Aqui encontraras:
-  * La transformacion de Lorentz
-  * Ecuacion de Relatividad Especial
-  * Ecuaciones de Maxwell
-  * ...
-  
-### ejericios
-Problemas de fisica, se nos da un caso y que aplicar para resolverlo.
-
-Aqui encontraras:
-  * Una masa con resortes
-  * ...
-
-### calculo
+### decks/Calculo
 Esto tambien se refiere a ejercicios y derivacion de cosas, pero unicamente
 hablamos de calculo.
 
 Aqui encontraras:
   * Ecuaciones diferenciales
   * Teoremas que recordar o demostrar
-  * ...
-
-### integrales
-Gran parte de la fisica es calculo y gran parte del calculo son integrales
-
-Aqui encontraras:
-  * Formulas que uno suele memorizar
-  * Ejercicios para ponerte a prueba
+  * Intregrales
+  * Formulas
   * ...
 
 
@@ -90,3 +72,13 @@ Todo lo que es `LaTex` dentro de Anki se hace con `MathJax`, debes de usar `\( t
 http://www.texrendr.com/
 
 Renderiza en tiempo real codigo de LaTex, por tanto es escencial para mejorar el flujo de trabajo.
+
+Este proyecto se nutre de distintas fuentes, algunos cursos en YouTube y otras de mis notas personales.
+Dejo adjunta algunas fuentes que utilizo
+
+## Referencias
+
+[1] Zetilli, N. (2009). Quantum Mechanics: Concepts and Applications (2da ed.). Wiley.
+[2] Griffiths, D. (1999). Introduction to electrodynamics (3ra ed.). Prentice-Hall.
+[3] Vargas, L. (2010). Apuntes de Electromagnetismo. https://www.u-cursos.cl/usuario/e7fc0ba9bcbf9574ec297b783608d078/mi_blog/r/electro_vargas.pdf
+[4] FreecodeCamp. https://www.youtube.com/c/Freecodecamp
