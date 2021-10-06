@@ -1,0 +1,8 @@
+"la secuencia<br>2, 4, 8, 16, 32,...<br>es una progresion",progreson geometrica,
+"Una progresion Geometrica es<br><br>\(<br>a, ...<br>\)","\(<br>a, ar, ar^2, ar^3,...<br>\)",geometrica progresion
+Cual es la suma de una serie Geometrica?<br>\(<br>a + ar+ar^2 + ar^3 + ... + ar^n<br>\),La suma hasta el termino <i>n</i><br>\(<br>S_n = \frac{a(1-r^n)}{1-r}<br>\),geometrica progresion
+Suma de una Serie Geoemtrica Infinita?,\(<br>S = \lim_{n \rightarrow \infty} S_n = \lim_{n \rightarrow \infty} \frac{a(1-r^n)}{1-r}<br>\)<br>En el caso de que&nbsp;\(|r|&lt;1\) entonces la serie sera convergente y la suma infinita<br>\(<br>S = \frac{a}{1-r}<br>\),geometrica progresion
+Ratio Test<br>Para probar si una serie Converge,"""\(<br>C = \lim_{n \rightarrow \infty} |\frac{a_{n+1}}{a_n}|<br>\)<br><blockquote style=""""margin: 0 0 0 40px; border: none; padding: 0px;"""">C &gt; 1: Divergente<br>C &lt; 1: Convergente<br>C = 1: No nos dice nada el test<br></blockquote>""",serie
+Test Integral para Convergencia,Si es que&nbsp;\(0 &lt; a_{n+1} \leq a_n\)<br>Entonces<br>\(<br>\sum^\infty a_n<br>\)<br>converge si es que la integral es finita; y diverge si la integral es infinita<br>(solo se evalua en el limite superior)<br><br>\(<br>\int^\infty a_n dn<br>\),serie
+Test la Convergencia de la Serie Harmonica,La serie armonica:<br>\(<br>\sum^\infty \frac{1}{n}<br>\)<br><br>Usando el test de integral<br>\(<br>\int^\infty \frac 1 n dn = \ln n |^\infty = \infty<br>\),serie
+Coeficiente Binomial<br>\(<br>\arreglo{<br>p \\ n<br>}<br>\),\(<br>= \frac{p!}{n! (p-n)!}<br>\),Metodos_Matematicos::Series
