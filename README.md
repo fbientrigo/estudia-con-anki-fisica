@@ -7,7 +7,6 @@ La repeticion espaciada demuestra ser una de las mejores maneras
 de memorizar cosas, vease `La Curva del Olvido`
 
 
-
 ## Carpetas
 
 ### decks
@@ -48,24 +47,11 @@ Aqui encontraras:
 
 
 ## Tags presentes en todo el proyecto
-### Matematicas
-* complex
-* integral
-* theorem
-* physics
-* formula
-* derivative
 
-### Fisica
-* waves
-* quantum
-* evolution
-* operator
-* relativity
-* transformation
 
 ## Deseo Contribuir
-Genial! Los documentos a modifcar son los csv, significa comma separated value, osea que todo lo que dejes una coma sera una columna, actualmente por convencion las 3 columnas son: Pregunta, Respuesta, Tags
+Genial! Debes, puedes modificar los formatos .CSV, los cuales los exporte usando la extension de anki:
+https://ankiweb.net/shared/info/1478130872
 
 Todo lo que es `LaTex` dentro de Anki se hace con `MathJax`, debes de usar `\( tu ecuacion \)` cada vez que quieras escribir una ecuacion. A mi me ayuda ver en tiempo real como va quedando, asi que utilizo esto:
 
