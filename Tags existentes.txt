@@ -1,0 +1,206 @@
+# Categoria o Tipo de Carta
+## Rama
+::sub rama nombre > comentario
+
+Por ejemplo una carta de Fisica con la Tag principal ElectroMagnetismo y un sub tag Electroestatica se veria en Anki "ElectroMagnetismo::Electroestatica"
+# Fisica
+## ElectroMagnetismo
+::Electroestatica
+________________________Tags en los Mazos_____________________
+## Algebra
+::Binomios
+	::Coeficiente_Binomial
+::Elipse
+::Identidades
+::Trigonometria
+
+## Algebra_Lineal
+::Complejos
+::Sitema
+	::Crammer
+::Determinante
+::Eigen
+
+
+## Algoritmos
+::Big_O
+::FFT > fast fourier transform
+
+
+## APPA
+> formato APPA para citar articulos y libros
+::Autor
+::Bibliografia
+::Citar
+	::Web
+::DOI
+::Libro
+::Referencias
+::Revista_Cientifica
+
+## Astronomia
+::Constantes
+::Constelaciones
+
+
+## Calculo
+::Bessel
+::Cambio_Variable
+::Delta_Dirac
+::Derivadas
+::Diferenciales
+::Ecuaciones_Diferenciales
+    ::Fourier
+    ::Laplace
+    ::Frobenius
+    ::Sturm > problemas del tipo sturm liouville algo mas avanzado
+::Integral
+	::Exponencial
+	::Funcion_Periodica
+::Multivariable
+::Jacobiano
+::Taylor
+	::2_Variables
+    ::Error
+
+
+
+## Constante
+Constante > conocidas como la temperatura del agua, kelvins, etc..
+
+## Coordenadas
+::Cilindricas
+::Polares
+
+## DataScience
+
+## Data_Type
+::Array
+
+
+
+## ElectroMagnetismo
+::Calculo
+::Campos
+	::Campo_Electroestatico
+	::Campo_Magnetoestatico
+    ::Condicion_Borde
+::Corriente
+    ::Nodos
+    ::Ohm
+    ::Resistencia
+::Electroestatica
+	::Conductores
+::Ley
+::Vectores > propiedades utiles del calculo multivariable
+::Onda_EM
+    ::Vector_Poynting
+
+## Ejercicios
+> problemas matematicos para probar
+
+## ExpansionFunciones
+> Todos los metodos de escribir funciones o expresiones como series
+
+## Fisica
+> conceptos mas generales como energia, trabajo, etc..
+::Energia
+
+## Mecanica
+::Rotacional
+    ::Torque
+::Centro_Masa
+::Momento_Inercia
+::Trabajo
+
+## MecanicaIntermedia
+::Funcional
+
+## Mecanica_Cuantica
+::Armonicos
+::Bases
+::Bases_Continuas
+::Bases_Discretas
+::Bases_Discretas::Ortonormalidad
+::Bohr
+::Brakets
+::Foton
+::Eigen > referencia a vectores propios
+::Gato > referencia a Schroedinger
+::Inecualidades
+::Niveles_Energia
+
+## Metodos_Matematicos
+::Expansion_Fourier
+::Funcion_Beta
+::Funcion_Gamma
+    ::Propiedades
+::Hipergeometricas
+::Integrales
+::MOB > Metodo de Brackets, sirve para integrales de cromodinamica
+::Notacion_Indicial
+::Series
+    ::Convergencia
+
+## Lab
+::Error
+
+## Lenguajes
+> Todo lo relacionado a lenguajes de programacion, JavaScript, Python, etc..
+::JavaScript
+::Python 
+    ::Data > manipulacion de datos
+        ::Encoding > utf8 y como convertir otros formatos
+    ::Decortators > funciones magicas de Python
+    ::Graficos
+    ::Print
+
+## Ondas
+::Conceptos
+::Velocidad
+
+
+## Polinomios
+> esta seccion es algo avanzada asi que posee pocas cartas
+::Legendre
+
+## Probabilidad
+::Definiciones
+
+## RelatividadEspecial
+
+## Tensores
+::Componentes 
+::Contravariente 
+::Covariante 
+::Metrica
+::Producto_Interno
+::Transformacion
+
+## Termodinamica
+::Agujero_Negro
+::Boltzmann
+    ::Ley
+::Cantidades
+	::Energia_Interna
+::Coeficientes
+	::Compresion_Expansion
+::Conceptos
+::Cuerpo_Negro > el modelo de radiacion
+::Gases
+    ::Gas_Ideal
+
+::Ecuacion
+::Energia_Gibbs
+::Entalpia
+::Entropia
+::Kelvin
+::Ley
+::Magnetismo
+::Relacion_Maxwell
+::Temperatura
+
+## Trucazo
+> aqui se juntan trucos matematicos para integrales
+
+## Vectores
