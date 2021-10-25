@@ -8,42 +8,88 @@ de memorizar cosas, vease `La Curva del Olvido`
 
 
 ## Carpetas
-
 ### decks
 Contiene mazos exportados en formato de anki, listos para utilizar y modificar dentro de anki
-
 ### csv
 Outputs de CSV funcionales, listos para utilizar y sin errores.
-
 ### automation
 Contiene jupyternotebooks que nos permite facilitar un poco la sintaxis de latex si te cuesta
 
-## Por que existen distintos mazos y no solo 1? (WIP)
-La fisica y matematica se divide no solo en ecuaciones que debes de recordar, pero tambien de situaciones
-que al ejercitarlas acabas con un conocimiento mayor. 
-Los veo como cosas complementarias pero conveniente separarlas si nos vemos debiles en alguna.
+## Mazos
+> descripcion
+    submazo
 
-### decks/Articulos y Escribirlos
-Posee sub-mazos de LaTex y normas APA, para estilo y referencias.
+## Ecuaciones para Memorizar
+> Ecuaciones que te ayudara memorizar en fisica
 
-### decks/Electrodinamica
-Desde la materia de electroestatica, formulas de capacitancia, demostrar propiedades vectoriales
-y distintos ejercicios que deben de sernos de 2da naturaleza para el estudio
+## Escencial para Fisica
+> Todo de Fisica Introductoria y algunas utilidades
+    Mecanica + Torque
+    Unidades
+    Algebra, Trionometria Importante y Usada
 
-### decks/Escencial para Fisica
-Se concentra en ecuaciones de la fisica que debemos de recordar o saber llegar a ellas de manera rapida,
-son tambien materia introductoria para Fisica, muchas veces con expansiones y propiedades utiles.
+## Ondas
 
-### decks/Calculo
-Esto tambien se refiere a ejercicios y derivacion de cosas, pero unicamente
-hablamos de calculo.
+## Vectores
+    Vectores Basico
+    Vectores Avanzado
 
-Aqui encontraras:
-  * Ecuaciones diferenciales
-  * Teoremas que recordar o demostrar
-  * Intregrales
-  * Formulas
-  * ...
+## Algebra
+    Logaritmos
+
+## Algebra Lineal
+    1 - Sistema de Ecuaciones
+    3 - Eigenvalue Problem
+
+## Articulos y Escribirlos
+> Aprende a escribr articulos profesionales y citar
+    Citas APPA
+    LaTex
+
+## Calculo
+> Derivadas, integrales, ecuaciones diferenciales, uno de los mazos mas extensos, te recomeindo tratar con derivadas e intergales para empezar
+    Derivadas
+    Integrales
+    Ecuaciones Diferenciales
+        Series de Potencias y Bessel
+        Transformada de Laplace
+    Fourier Analysis (incluye ED. Paricales)
+
+## Computacion
+    Adobe After Fx Shortcuts
+    Algoritmos
+    C++
+    JavaScript y FrontEnd
+    Jupyter Notebook
+    Python
+        Data Science
+        Listas
+        Plotly
+        Sympy
+    Regular Expressions
+
+## Electrodinamica
+    1 - Electroestatica
+    2 - Circuitos
+    3 - Magnetoestatica
+    Metodo de Green > Este es mas avanzado
+
+## Estadistica
+    Probabilidad y Estadistica
+
+## Fisica de Gases
+    Termodinamica
+
+## Fisica Moderna
+
+## Mecanica Cuantica
+
+## Mecanica Intermedia
+
+## Metodos Matematicos 2
+
+## Metodos Matematicos Libro Boas
+> referente a mi sesion de estudio semanal donde avanzo este libro de matematicas para fisica
 
 
 ## Tags presentes en todo el proyecto
