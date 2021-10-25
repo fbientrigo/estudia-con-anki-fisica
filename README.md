@@ -16,7 +16,6 @@ Outputs de CSV funcionales, listos para utilizar y sin errores.
 Contiene jupyternotebooks que nos permite facilitar un poco la sintaxis de latex si te cuesta
 
 ## Mazos
-> descripcion
     submazo
 
 ## Ecuaciones para Memorizar
@@ -42,12 +41,10 @@ Contiene jupyternotebooks que nos permite facilitar un poco la sintaxis de latex
     3 - Eigenvalue Problem
 
 ## Articulos y Escribirlos
-> Aprende a escribr articulos profesionales y citar
     Citas APPA
     LaTex
 
 ## Calculo
-> Derivadas, integrales, ecuaciones diferenciales, uno de los mazos mas extensos, te recomeindo tratar con derivadas e intergales para empezar
     Derivadas
     Integrales
     Ecuaciones Diferenciales
@@ -89,11 +86,10 @@ Contiene jupyternotebooks que nos permite facilitar un poco la sintaxis de latex
 ## Metodos Matematicos 2
 
 ## Metodos Matematicos Libro Boas
-> referente a mi sesion de estudio semanal donde avanzo este libro de matematicas para fisica
 
 
-## Tags presentes en todo el proyecto
-
+### Tags presentes en todo el proyecto
+Ver el archivo .txt de Tags existentes (es algo extenso)
 
 ## Deseo Contribuir
 Genial! Debes, puedes modificar los formatos .CSV, los cuales los exporte usando la extension de anki:
