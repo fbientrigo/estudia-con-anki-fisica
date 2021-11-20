@@ -6,7 +6,22 @@ que son populares en el campo, pequeños ejercicios y problemas
 La repeticion espaciada demuestra ser una de las mejores maneras
 de memorizar cosas, vease `La Curva del Olvido`
 <hr/>
+
 # Codigo para Decorar Tarjetas
+
+Siguiendo el video, pega en cada apartado lo que corresponde
+
+--- Front Template ---
+```html
+<div class=frontback>
+  <div class=texto>
+    {{Front}}
+  </div>
+</div>
+```
+
+
+
 
 
 
