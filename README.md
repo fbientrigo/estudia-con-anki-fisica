@@ -5,9 +5,19 @@ que son populares en el campo, pequeños ejercicios y problemas
 
 La repeticion espaciada demuestra ser una de las mejores maneras
 de memorizar cosas, vease `La Curva del Olvido`
+<hr/>
+# Codigo para Decorar Tarjetas
+
+
+
+
+
+
 
 <hr/>
-## Carpetas
+
+# Carpetas
+
 ### decks
 Contiene mazos exportados en formato de anki, listos para utilizar y modificar dentro de anki
 ### csv
