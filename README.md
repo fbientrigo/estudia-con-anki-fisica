@@ -12,7 +12,7 @@ de memorizar cosas, vease [`La Curva del Olvido`](https://youtu.be/mlWHKuN47YQ)
 
 Siguiendo el video, pega en cada apartado lo que corresponde
 
-<hr> Front Template <hr>
+_________________ Front Template _________________
 ```html
 <div class=frontback>
   <div class=texto>
@@ -21,16 +21,54 @@ Siguiendo el video, pega en cada apartado lo que corresponde
 </div>
 ```
 
---- Back Template ---
+_________________ Back Template __________________
 ```html
+{{FrontSide}}
 
+<hr id=answer>
+<div class=frontback>
+  <div class=texto>
+    {{Back}}
+  </div>
+</div>
+```
 
+____________________ Styling _____________________
+```css
+card {
+ font-family: arial; /*tipo de letra*/
+ font-size: 20px; /*tamaño de letra en pixeles*/
+}
+body {
+  background: transparent;  
+}
 
+/*______________ Aqui es donde quieres modificar ______________*/
+/*Esta seccion te permite modificar todo lo del background*/
+html {
+  background-color: #454545;
+}
 
+.texto{
+  text-align: center;  /*left, right, center son configuraciones posibles*/
+  color: black; /* para un color en hexadecimal #nnnnnn <-son 6 numeros luego de un '#'*/
+}
 
+.frontback{
+  padding: 20px;
+  /*controla el color de la carta*/
+  background-color: white;
+  border-radius:30px;
+}
+/*__________________________________________________________*/
 
+```
 
+## Webs habladas
 
+[Paletas de Colores](https://colorhunt.co/palettes/popular)
+
+[Gradiente para tu fondo](https://cssgradient.io/)
 
 <hr/>
 
