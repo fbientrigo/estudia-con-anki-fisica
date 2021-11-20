@@ -4,14 +4,15 @@ puedes estudiar de manera ordenada, ya sea recordar ecuaciones
 que son populares en el campo, pequeños ejercicios y problemas
 
 La repeticion espaciada demuestra ser una de las mejores maneras
-de memorizar cosas, vease `La Curva del Olvido`
+de memorizar cosas, vease [`La Curva del Olvido`](https://youtu.be/mlWHKuN47YQ)
+
 <hr/>
 
 # Codigo para Decorar Tarjetas
 
 Siguiendo el video, pega en cada apartado lo que corresponde
 
---- Front Template ---
+<hr> Front Template <hr>
 ```html
 <div class=frontback>
   <div class=texto>
@@ -20,6 +21,8 @@ Siguiendo el video, pega en cada apartado lo que corresponde
 </div>
 ```
 
+--- Back Template ---
+```html
 
 
 
