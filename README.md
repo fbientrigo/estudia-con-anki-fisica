@@ -91,7 +91,7 @@ Aqui te dejo preparado algo de codigo por si quieres explorar
     color: white;
 
     /*esto es para darle un fondo a las ecuaciones para resaltarlas*/
-    padding: 10px; /*deja espacio extra*/
+    padding: 0 12px 7px 12px; /*deja espacio extra*/
     border-radius: 15px;
     
     /*gradiente Atardecer*/
