@@ -65,13 +65,6 @@ html {
 .MathJax {
    /*color de la letra*/
    color: white;
-
-   /*esto es para darle un fondo a las ecuaciones para resaltarlas*/
-   padding: 10px; /*deja espacio extra*/
-   background-color: black;
-   border-radius: 15px;
-   
-
 }
 /*__________________________________________________________*/
 
@@ -85,7 +78,10 @@ html {
 
 ## Fondo para resaltar ecuaciones
 
-![image](https://user-images.githubusercontent.com/42480199/142806715-29acbbfd-ce94-45df-8731-ee9968c3972b.png)
+
+
+![image](https://user-images.githubusercontent.com/42480199/142807496-d35c6793-5416-4ba6-a7cf-7565416d207c.png)
+
 
 ```css
 .MathJax {
@@ -96,9 +92,26 @@ html {
     padding: 10px; /*deja espacio extra*/
     border-radius: 15px;
     
-    /*gradiente*/
+    /*gradiente Atardecer*/
     background: rgb(131,58,180);
     background: linear-gradient(9deg, rgba(131,58,180,1) 42%, rgba(253,29,29,1) 84%, rgba(252,176,69,1) 100%);
+}
+```
+![image](https://user-images.githubusercontent.com/42480199/142807409-6bf2aa0e-f470-4a59-b481-75d523f186ae.png)
+
+```css
+/*Config para Ecuaciones de Mates*/
+.MathJax {
+    /*color de la letra*/
+    color: white;
+
+    /*esto es para darle un fondo a las ecuaciones para resaltarlas*/
+    padding: 0 12px 0 12px; /*deja espacio extra*/
+    border-radius: 15px;
+
+    /*gradiente Azulito*/
+    background: rgb(119,228,212);
+    background: linear-gradient(356deg, rgba(119,228,212,1) 13%, rgba(132,193,221,1) 25%, rgba(153,140,235,1) 59%);
 }
 ```
 
