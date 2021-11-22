@@ -78,9 +78,11 @@ html {
 
 ## Fondo para resaltar ecuaciones
 
+Aqui te dejo preparado algo de codigo por si quieres explorar
 
+### Atardecer
 
-![image](https://user-images.githubusercontent.com/42480199/142807496-d35c6793-5416-4ba6-a7cf-7565416d207c.png)
+![image](https://user-images.githubusercontent.com/42480199/142807698-510880d2-f9a4-48d3-ba5d-93de465336d6.png)
 
 
 ```css
@@ -97,7 +99,9 @@ html {
     background: linear-gradient(9deg, rgba(131,58,180,1) 42%, rgba(253,29,29,1) 84%, rgba(252,176,69,1) 100%);
 }
 ```
-![image](https://user-images.githubusercontent.com/42480199/142807409-6bf2aa0e-f470-4a59-b481-75d523f186ae.png)
+### Azulito
+
+![image](https://user-images.githubusercontent.com/42480199/142807733-88b8b05d-b1c4-406f-a7bd-62f13396b701.png)
 
 ```css
 /*Config para Ecuaciones de Mates*/
@@ -113,15 +117,6 @@ html {
     background: rgb(119,228,212);
     background: linear-gradient(356deg, rgba(119,228,212,1) 13%, rgba(132,193,221,1) 25%, rgba(153,140,235,1) 59%);
 }
-```
-
-![image](https://user-images.githubusercontent.com/42480199/142806897-f1379bde-b16a-48ae-9154-2751e698324d.png)
-
-```css
-
-  background: rgb(251,244,109);
-  background: linear-gradient(90deg, rgba(251,244,109,1) 0%, rgba(180,254,152,1) 6%, rgba(119,228,212,1) 49%, rgba(132,193,221,1) 60%, rgba(153,140,235,1) 74%);
-
 ```
 
 
