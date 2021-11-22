@@ -83,6 +83,35 @@ html {
 
 [Gradiente para tu fondo](https://cssgradient.io/)
 
+## Fondo para resaltar ecuaciones
+
+![image](https://user-images.githubusercontent.com/42480199/142806715-29acbbfd-ce94-45df-8731-ee9968c3972b.png)
+
+```css
+.MathJax {
+    /*color de la letra*/
+    color: white;
+
+    /*esto es para darle un fondo a las ecuaciones para resaltarlas*/
+    padding: 10px; /*deja espacio extra*/
+    border-radius: 15px;
+    
+    /*gradiente*/
+    background: rgb(131,58,180);
+    background: linear-gradient(9deg, rgba(131,58,180,1) 42%, rgba(253,29,29,1) 84%, rgba(252,176,69,1) 100%);
+}
+```
+
+![image](https://user-images.githubusercontent.com/42480199/142806897-f1379bde-b16a-48ae-9154-2751e698324d.png)
+
+```css
+
+  background: rgb(251,244,109);
+  background: linear-gradient(90deg, rgba(251,244,109,1) 0%, rgba(180,254,152,1) 6%, rgba(119,228,212,1) 49%, rgba(132,193,221,1) 60%, rgba(153,140,235,1) 74%);
+
+```
+
+
 <hr/>
 
 # Carpetas
