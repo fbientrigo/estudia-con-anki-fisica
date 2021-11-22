@@ -60,6 +60,19 @@ html {
   background-color: white;
   border-radius:30px;
 }
+
+/*Config para Ecuaciones de Mates*/
+.MathJax {
+   /*color de la letra*/
+   color: white;
+
+   /*esto es para darle un fondo a las ecuaciones para resaltarlas*/
+   padding: 10px; /*deja espacio extra*/
+   background-color: black;
+   border-radius: 15px;
+   
+
+}
 /*__________________________________________________________*/
 
 ```
