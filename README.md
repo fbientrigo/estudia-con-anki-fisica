@@ -4,10 +4,126 @@ puedes estudiar de manera ordenada, ya sea recordar ecuaciones
 que son populares en el campo, pequeños ejercicios y problemas
 
 La repeticion espaciada demuestra ser una de las mejores maneras
-de memorizar cosas, vease `La Curva del Olvido`
+de memorizar cosas, vease [`La Curva del Olvido`](https://youtu.be/mlWHKuN47YQ)
+
+<hr/>
+
+# Codigo para Decorar Tarjetas
+
+Siguiendo el video, pega en cada apartado lo que corresponde
+
+_________________ Front Template _________________
+```html
+<div class=frontback>
+  <div class=texto>
+    {{Front}}
+  </div>
+</div>
+```
+
+_________________ Back Template __________________
+```html
+{{FrontSide}}
+
+<hr id=answer>
+<div class=frontback>
+  <div class=texto>
+    {{Back}}
+  </div>
+</div>
+```
+
+____________________ Styling _____________________
+```css
+card {
+ font-family: arial; /*tipo de letra*/
+ font-size: 20px; /*tamaño de letra en pixeles*/
+}
+body {
+  background: transparent;  
+}
+
+/*______________ Aqui es donde quieres modificar ______________*/
+/*Esta seccion te permite modificar todo lo del background*/
+html {
+  background-color: #454545;
+}
+
+.texto{
+  text-align: center;  /*left, right, center son configuraciones posibles*/
+  color: black; /* para un color en hexadecimal #nnnnnn <-son 6 numeros luego de un '#'*/
+}
+
+.frontback{
+  padding: 20px;
+  /*controla el color de la carta*/
+  background-color: white;
+  border-radius:30px;
+}
+
+/*Config para Ecuaciones de Mates*/
+.MathJax {
+   /*color de la letra*/
+   color: white;
+}
+/*__________________________________________________________*/
+
+```
+
+## Webs habladas
+
+[Paletas de Colores](https://colorhunt.co/palettes/popular)
+
+[Gradiente para tu fondo](https://cssgradient.io/)
+
+## Fondo para resaltar ecuaciones
+
+Aqui te dejo preparado algo de codigo por si quieres explorar
+
+### Atardecer
+
+![image](https://user-images.githubusercontent.com/42480199/142807698-510880d2-f9a4-48d3-ba5d-93de465336d6.png)
 
 
-## Carpetas
+```css
+.MathJax {
+    /*color de la letra*/
+    color: white;
+
+    /*esto es para darle un fondo a las ecuaciones para resaltarlas*/
+    padding: 0 12px 7px 12px; /*deja espacio extra*/
+    border-radius: 15px;
+    
+    /*gradiente Atardecer*/
+    background: rgb(131,58,180);
+    background: linear-gradient(9deg, rgba(131,58,180,1) 42%, rgba(253,29,29,1) 84%, rgba(252,176,69,1) 100%);
+}
+```
+### Azulito
+
+![image](https://user-images.githubusercontent.com/42480199/142807733-88b8b05d-b1c4-406f-a7bd-62f13396b701.png)
+
+```css
+/*Config para Ecuaciones de Mates*/
+.MathJax {
+    /*color de la letra*/
+    color: white;
+
+    /*esto es para darle un fondo a las ecuaciones para resaltarlas*/
+    padding: 0 12px 7px 12px; /*deja espacio extra*/
+    border-radius: 15px;
+
+    /*gradiente Azulito*/
+    background: rgb(119,228,212);
+    background: linear-gradient(356deg, rgba(119,228,212,1) 13%, rgba(132,193,221,1) 25%, rgba(153,140,235,1) 59%);
+}
+```
+
+
+<hr/>
+
+# Carpetas
+
 ### decks
 Contiene mazos exportados en formato de anki, listos para utilizar y modificar dentro de anki
 ### csv
