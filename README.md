@@ -135,10 +135,10 @@ Contiene jupyternotebooks que nos permite facilitar un poco la sintaxis de latex
     submazo
 
 ## Ecuaciones para Memorizar
-> Ecuaciones que te ayudara memorizar en fisica
+    Ecuaciones que te ayudara memorizar en fisica
 
 ## Escencial para Fisica
-> Todo de Fisica Introductoria y algunas utilidades
+    Todo de Fisica Introductoria y algunas utilidades
     Mecanica + Torque
     Unidades
     Algebra, Trionometria Importante y Usada
