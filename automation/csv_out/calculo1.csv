@@ -1,8 +1,0 @@
-\(f' =\) , \(\frac{d}{dx}f\) , calculo polinomial
-\(\frac{d}{dx}c=\) , \(0\) , calculo polinomial
-\(\frac{d}{dx}\frac{u}{v}=\) , \(( v u' - u  v' )\frac{1}{v^2}\) , calculo polinomial
-\(\frac{d}{dx}u v=\) , \(u \frac{d}{dx}v+v \frac{d}{dx}u\) , calculo polinomial
-\(\frac{d}{dx}v^n=\) , \(n  x ^{n-1} * (\frac{d}{dx}v)\) , calculo polinomial
-\(\frac{d}{dx}x^n=\) , \(n  x ^{n-1}\) , calculo polinomial
-\(\frac{d}{dx}cx=\) , \(c\) , calculo polinomial
-\(\frac{d}{dx}x=\) , \(1\) , calculo polinomial
