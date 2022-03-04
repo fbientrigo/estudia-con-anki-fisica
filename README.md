@@ -1,10 +1,21 @@
-# Anki Fisica
+# Anki Fisica - Night Mode
 Utilizando la aplicacion Anki para repeticion espaciada,
 puedes estudiar de manera ordenada, ya sea recordar ecuaciones
 que son populares en el campo, pequeños ejercicios y problemas
 
 La repeticion espaciada demuestra ser una de las mejores maneras
 de memorizar cosas, vease [`La Curva del Olvido`](https://youtu.be/mlWHKuN47YQ)
+
+## Ejemplo de tarjetas
+##### Nota tipo 'Modo Nocturno'
+![image](https://user-images.githubusercontent.com/42480199/156855303-2bfeaa3d-a663-4232-9dbb-3304110664e6.png)
+![image](https://user-images.githubusercontent.com/42480199/156855331-cd65ab01-8736-472d-ad52-8c4f8ed11988.png)
+
+##### Nota tipo Markdown
+Esta es usada exclusivamente para mazos que incluyen codigo de programacion
+![image](https://user-images.githubusercontent.com/42480199/156856059-1fd84b04-e8f4-453a-9d30-cc5b0d54d587.png)
+
+
 
 <hr/>
 
