@@ -1,0 +1,40 @@
+html {
+    align-content: center;
+    background-color: azure;
+}
+
+body {
+    text-align: center;
+    color: #0f0500;
+
+    padding-left: 10%;
+    padding-right: 10%;
+    justify-content: center;
+}
+
+h2{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.block {
+    background-color: aquamarine;
+    border-radius: 12px;
+    margin: 10px;
+    padding-left: 25%;
+    padding-right: 25%;
+    justify-content: center;
+
+}
+
+.grid {
+    grid-column: 2;
+    
+
+}
+
+.carta {
+    width: 200px;
+    height: 500px;
+    background-color: darkviolet;
+}
